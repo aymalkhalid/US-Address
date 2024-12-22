@@ -1,24 +1,56 @@
- 
+# ZOHO CRM FB Lead Data Files
+
+This repository contains JSON files used for mapping and standardizing various data fields in the ZOHO CRM FB Lead project. These files include mappings for street suffixes, secondary unit designations, and area codes to regions.
+
+## Table of Contents
+- [Files and Their Descriptions](#files-and-their-descriptions)
+  - [units_secondary_designatory.json](#units_secondary_designatoryjson)
+  - [street_suffix.json](#street_suffixjson)
+  - [area_code_region.json](#area_code_regionjson)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Files and Their Descriptions
+
+### units_secondary_designatory.json
+This file contains mappings for secondary unit designations commonly used in addresses. Each key represents a type of unit (e.g., Apartment, Basement), and the value is an array of possible abbreviations or variations for that unit type.
+
+Example:
+```json
+{
+    "Apartment": ["APT", "Apartment", "Apartmnt", "Apt", "Apt.", "Apts"],
+    "Basement": ["BSMT", "Base,", "Basemnt", "Bsmt", "Bsmt."]
+}
+
+
+### street_suffix.json
+
+```markdown
+### street_suffix.json
+This file contains mappings for street suffixes. Each key represents a street suffix (e.g., Alley, Avenue), and the value is an array of possible abbreviations or variations for that suffix.
+
+Example:
+```json
+{
+    "ALLEY": ["ALLEY", "ALLEE", "ALY"],
+    "AVENUE": ["AVENUE", "AV", "AVE", "AVEN", "AVENU", "AVN", "AVNUE"]
+}
+
 
 ### area_code_region.json
 
- file contains a comprehensive mapping of area codes to their respective regions within the United States. Each entry in the JSON object represents an area code and includes detailed information about the region it covers. The structure of each entry is as follows:
+```markdown
+### area_code_region.json
+This file contains mappings of area codes to their respective regions within the United States. Each entry includes the area code, region, a detailed description, and geographical coordinates (latitude and longitude).
 
-- **Area Code**: The key for each entry, representing the telephone area code.
-- **Region**: The state or region associated with the area code.
-- **Description**: A detailed description of the cities or areas covered by the area code, including any overlays or special notes.
-- **Latitude (lat)**: The latitude coordinate representing the approximate central location of the region covered by the area code.
-- **Longitude (lang)**: The longitude coordinate representing the approximate central location of the region covered by the area code.
-
-Here is an example of the structure for an entry:
-
+Example:
 ```json
-"201": {
-    "region": "New Jersey",
-    "description": "X 201 - New JerseyHackensack, Jersey City, Union City, Rutherford, Leonia",
-    "lang": 40.0757384,
-    "lat": -74.4041622
+{
+    "201": {
+        "region": "New Jersey",
+        "description": "X 201 - New JerseyHackensack, Jersey City, Union City, Rutherford, Leonia",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    }
 }
-```
-
-This file is useful for applications that need to map phone numbers to geographical locations, such as customer relationship management (CRM) systems, telecommunication services, and location-based services. The detailed descriptions and coordinates help in visualizing and understanding the coverage of each area code.
