@@ -1,0 +1,2162 @@
+{
+    "201": {
+        "region": "New Jersey",
+        "description": "X 201 - New JerseyHackensack, Jersey City, Union City, Rutherford, Leonia",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "202": {
+        "region": "District of Columbia",
+        "description": "X 202 - District of ColumbiaWashington, District of Columbia",
+        "lang": 38.89384735,
+        "lat": -76.98804281910948
+    },
+    "203": {
+        "region": "Connecticut",
+        "description": "X 203 - ConnecticutBridgeport, New Haven, Stamford, Waterbury, Norwalk, Danbury, Greenwich",
+        "lang": 41.6500201,
+        "lat": -72.7342163
+    },
+    "205": {
+        "region": "Alabama",
+        "description": "X 205 - AlabamaBirmingham, Huntsville, Tuscaloosa, Anniston",
+        "lang": 33.2588817,
+        "lat": -86.8295337
+    },
+    "206": {
+        "region": "Washington",
+        "description": "X 206 - WashingtonSeattle, Everett",
+        "lang": 38.8950368,
+        "lat": -77.0365427
+    },
+    "207": {
+        "region": "Maine",
+        "description": "X 207 - MaineMaine: All regions",
+        "lang": 45.709097,
+        "lat": -68.8590201
+    },
+    "208": {
+        "region": "Idaho",
+        "description": "X 208 - IdahoIdaho: All regions  **Area Code crosses into PST time zone",
+        "lang": 43.6447642,
+        "lat": -114.015407
+    },
+    "209": {
+        "region": "California",
+        "description": "X 209 - CaliforniaStockton, Modesto, Merced, Oakdale",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "210": {
+        "region": "Texas",
+        "description": "X 210 - TexasSan Antonio",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "212": {
+        "region": "New York",
+        "description": "X 212 - New YorkNew York City (Manhattan only)",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "213": {
+        "region": "California",
+        "description": "X 213 - CaliforniaLos Angeles, Compton",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "214": {
+        "region": "Texas",
+        "description": "X 214 - TexasDallas",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "215": {
+        "region": "Pennsylvania",
+        "description": "X 215 - PennsylvaniaPhiladelphia, Lansdale, Doylestown, Newtown, Quakertown",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "216": {
+        "region": "Ohio",
+        "description": "X 216 - OhioCleveland, Terrace, Independence, Montrose",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "217": {
+        "region": "Illinois",
+        "description": "X 217 - IllinoisSpringfield, Champaign Urbana, Decatur, Central Illinois",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "218": {
+        "region": "Minnesota",
+        "description": "X 218 - MinnesotaDuluth, Virginia, Moorhead, Brainerd, Wadena",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "219": {
+        "region": "Indiana",
+        "description": "X 219 - IndianaGary, Hammond, Merrillville, Portage, Michigan City, Valparaiso  **Area Code crosses into EST time zone",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "220": {
+        "region": "Ohio",
+        "description": "X 220 - OhioOverlay of 740 Area Code.",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "223": {
+        "region": "Pennsylvania",
+        "description": "X 223 - PennsylvaniaOverlay of 717 Area Code.",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "224": {
+        "region": "Illinois",
+        "description": "X 224 - IllinoisOverlay of 847 area code (Chicago)",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "225": {
+        "region": "Louisiana",
+        "description": "X 225 - LouisianaBaton Rouge and Surrounding Areas",
+        "lang": 30.8703881,
+        "lat": -92.007126
+    },
+    "227": {
+        "region": "Maryland",
+        "description": "X 227 - MarylandOverlay of 301 Area Code.",
+        "lang": 39.5162401,
+        "lat": -76.9382069
+    },
+    "228": {
+        "region": "Mississippi",
+        "description": "X 228 - MississippiGulfport, Biloxi, Pascagoula, Bay St. Louis",
+        "lang": 32.9715285,
+        "lat": -89.7348497
+    },
+    "229": {
+        "region": "Georgia",
+        "description": "X 229 - GeorgiaAlbany, Valdosta, Thomasville, Bainbridge, Tifton, Americus, Moultrie, Cordele",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "231": {
+        "region": "Michigan",
+        "description": "X 231 - MichiganMuskegon, Traverse City, Big Rapids, Cadillac, Cheboygan",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "234": {
+        "region": "Ohio",
+        "description": "X 234 - OhioOverlay of 330 Area Code.",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "235": {
+        "region": "Missouri",
+        "description": "X 235 - MissouriOverlay of 573 Area Code.",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "239": {
+        "region": "Florida",
+        "description": "X 239 - FloridaFt. Myers, Naples, Cape Coral, Bonita Springs, Immokalee, Lehigh Acres, Sanibel, Captiva, Pine Island",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "240": {
+        "region": "Maryland",
+        "description": "X 240 - MarylandOverlay of 301 Area Code.",
+        "lang": 39.5162401,
+        "lat": -76.9382069
+    },
+    "248": {
+        "region": "Michigan",
+        "description": "X 248 - MichiganTroy, Pontiac, Royal Oak, Birmingham, Rochester, Farmington Hills",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "251": {
+        "region": "Alabama",
+        "description": "X 251 - AlabamaMobile, Prichard, Tillmans Corner, Fairhope, Jackson, Gulfshores",
+        "lang": 33.2588817,
+        "lat": -86.8295337
+    },
+    "252": {
+        "region": "North Carolina",
+        "description": "X 252 - North CarolinaGreenville, Rocky Mount, Wilson, New Bern",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "253": {
+        "region": "Washington",
+        "description": "X 253 - WashingtonTacoma, Kent, Auburn",
+        "lang": 38.8950368,
+        "lat": -77.0365427
+    },
+    "254": {
+        "region": "Texas",
+        "description": "X 254 - TexasWaco, Killeen, Temple",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "256": {
+        "region": "Alabama",
+        "description": "X 256 - AlabamaHuntsville, Anniston, Decatur, Gadsden, Florence",
+        "lang": 33.2588817,
+        "lat": -86.8295337
+    },
+    "260": {
+        "region": "Indiana",
+        "description": "X 260 - IndianaFort Wayne, Huntington, Wabash, Lagrange",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "262": {
+        "region": "Wisconsin",
+        "description": "X 262 - WisconsinGreen Bay, Appleton, Racine, Kenosha, Oshkosh, Waukesha, Menomonee Falls, West Bend, Sheboygan",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "267": {
+        "region": "Pennsylvania",
+        "description": "X 267 - PennsylvaniaOverlay of 215 Area Code (Philadelphia Area)",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "269": {
+        "region": "Michigan",
+        "description": "X 269 - MichiganKalamazoo, Battle Creek, St. Joseph, Three Rivers, South Haven, Benton Harbor, Sturgis, Hastings",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "270": {
+        "region": "Kentucky",
+        "description": "X 270 - KentuckyBowling Green, Paducah, Owensboro, Hopkinsville  **Area Code crosses into EST time zone",
+        "lang": 37.5726028,
+        "lat": -85.1551411
+    },
+    "272": {
+        "region": "Pennsylvania",
+        "description": "X 272 - PennsylvaniaOverlay of 570 Area Code.",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "274": {
+        "region": "Wisconsin",
+        "description": "X 274 - WisconsinOverlay of 920 Area Code.",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "276": {
+        "region": "Virginia",
+        "description": "X 276 - VirginiaMartinsville, Abingdon, Wytheville, Bristol, Marion, Collinsville",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "279": {
+        "region": "California",
+        "description": "X 279 - CaliforniaOverlay of 916 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "281": {
+        "region": "Texas",
+        "description": "X 281 - TexasHouston, Sugar Land, Buffalo, Airline, Greenspoint, Spring",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "301": {
+        "region": "Maryland",
+        "description": "X 301 - MarylandRockville, Silver Spring, Bethesda, Gaithersburg, Frederick, Laurel, Hagerstown",
+        "lang": 39.5162401,
+        "lat": -76.9382069
+    },
+    "302": {
+        "region": "Delaware",
+        "description": "X 302 - DelawareDelaware: All regions",
+        "lang": 38.6920451,
+        "lat": -75.4013315
+    },
+    "303": {
+        "region": "Colorado",
+        "description": "X 303 - ColoradoDenver, Littleton, Englewood, Arvada, Boulder, Aurora",
+        "lang": 38.7251776,
+        "lat": -105.607716
+    },
+    "304": {
+        "region": "West Virginia",
+        "description": "X 304 - West VirginiaWest Virginia: All regions",
+        "lang": 38.4758406,
+        "lat": -80.8408415
+    },
+    "305": {
+        "region": "Florida",
+        "description": "X 305 - FloridaMiami, Perrine, Homestead, Florida Keys",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "307": {
+        "region": "Wyoming",
+        "description": "X 307 - WyomingWyoming: All regions",
+        "lang": 43.1700264,
+        "lat": -107.568534
+    },
+    "308": {
+        "region": "Nebraska",
+        "description": "X 308 - NebraskaGrand Island, Kearney, North Platte, Scottsbluff  **Area Code crosses into MST time zone",
+        "lang": 41.7370229,
+        "lat": -99.5873816
+    },
+    "309": {
+        "region": "Illinois",
+        "description": "X 309 - IllinoisPeoria, Bloomington, Rock Island, Galesburg, Macomb",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "310": {
+        "region": "California",
+        "description": "X 310 - CaliforniaCompton, Santa Monica, Beverly Hills, West LA, Inglewood, Redondo, El Segundo, Culver City, Torrance",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "312": {
+        "region": "Illinois",
+        "description": "X 312 - IllinoisChicago (Downtown area), Wheeling",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "313": {
+        "region": "Michigan",
+        "description": "X 313 - MichiganDetroit, Livonia, Dearborn",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "314": {
+        "region": "Missouri",
+        "description": "X 314 - MissouriSaint Louis, Ladue, Kirkwood, Creve Coeur, Overland, Ferguson",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "315": {
+        "region": "New York",
+        "description": "X 315 - New YorkSyracuse, Utica, Watertown, Rome",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "316": {
+        "region": "Kansas",
+        "description": "X 316 - KansasWichita, Hutchinson",
+        "lang": 38.27312,
+        "lat": -98.5821872
+    },
+    "317": {
+        "region": "Indiana",
+        "description": "X 317 - IndianaIndianapolis, Carmel, Fishers, Greenwood",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "318": {
+        "region": "Louisiana",
+        "description": "X 318 - LouisianaShreveport, Monroe, Alexandria, Ruston, Natchitoches",
+        "lang": 30.8703881,
+        "lat": -92.007126
+    },
+    "319": {
+        "region": "Iowa",
+        "description": "X 319 - IowaCedar Rapids, Iowa City, Waterloo, Burlington",
+        "lang": 41.9216734,
+        "lat": -93.3122705
+    },
+    "320": {
+        "region": "Minnesota",
+        "description": "X 320 - MinnesotaSt. Cloud, Alexandria, Willmar, Little Falls",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "321": {
+        "region": "Florida",
+        "description": "X 321 - FloridaBrevard County (Cocoa, Melbourne, Eau Gallie, Titusville), Overlay of most of 407 Area Code.",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "323": {
+        "region": "California",
+        "description": "X 323 - CaliforniaLos Angeles, Montebello",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "324": {
+        "region": "Florida",
+        "description": "X 324 - FloridaOverlay of 904 Area Code.",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "325": {
+        "region": "Texas",
+        "description": "X 325 - TexasAlbilene, San Angelo, Brownwood, Synder, Swee",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "326": {
+        "region": "Ohio",
+        "description": "X 326 - OhioOverlay of 937 Area Code.",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "327": {
+        "region": "Arkansas",
+        "description": "X 327 - ArkansasOverlay of 870 Area Code.",
+        "lang": 35.2048883,
+        "lat": -92.4479108
+    },
+    "329": {
+        "region": "New York",
+        "description": "X 329 - New YorkOverlay of 845 Area Code.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "330": {
+        "region": "Ohio",
+        "description": "X 330 - OhioAkron, Youngstown, Canton, Warren, Kent, Alliance, Medina, New Philadelphia",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "331": {
+        "region": "Illinois",
+        "description": "X 331 - IllinoisOverlay of 630 Area Code.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "332": {
+        "region": "New York",
+        "description": "X 332 - New YorkOverlay of 212, 646, 917 Area Codes.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "334": {
+        "region": "Alabama",
+        "description": "X 334 - AlabamaMontgomery, Dothan, Auburn, Selma, Opelika, Phenix City, Tuskegee  **Area Code crosses into EST time zone",
+        "lang": 33.2588817,
+        "lat": -86.8295337
+    },
+    "336": {
+        "region": "North Carolina",
+        "description": "X 336 - North CarolinaGreensboro, Winston Salem, Highpoint, Burlington, Lexington, Asheboro, Reidsville",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "337": {
+        "region": "Louisiana",
+        "description": "X 337 - LouisianaLake Charles, Lafayette, New Iberia, Leesville, Opelousas, Crowley",
+        "lang": 30.8703881,
+        "lat": -92.007126
+    },
+    "339": {
+        "region": "Massachusetts",
+        "description": "X 339 - MassachusettsOverlay of 781 Area Code.",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "341": {
+        "region": "California",
+        "description": "X 341 - CaliforniaOverlay of 510 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "346": {
+        "region": "Texas",
+        "description": "X 346 - TexasOverlay of 281, 713, 832 Area Codes (Houston).",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "347": {
+        "region": "New York",
+        "description": "X 347 - New YorkOverlay of 718 Area Code  (Bronx, Brooklyn, Queens, Staten Island).",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "350": {
+        "region": "California",
+        "description": "X 350 - CaliforniaOverlay of 209 Area Code (Stockton, Modesto, Merced, Oakdale)",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "351": {
+        "region": "Massachusetts",
+        "description": "X 351 - MassachusettsOverlay of 978 Area Code.",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "352": {
+        "region": "Florida",
+        "description": "X 352 - FloridaGainesville, Ocala, Leesburg, Brookville",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "353": {
+        "region": "Wisconsin",
+        "description": "X 353 - WisconsinOverlay of 608 Area Code.",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "360": {
+        "region": "Washington",
+        "description": "X 360 - WashingtonVancouver, Olympia, Bellingham, Silverdale",
+        "lang": 38.8950368,
+        "lat": -77.0365427
+    },
+    "361": {
+        "region": "Texas",
+        "description": "X 361 - TexasCorpus Christi, Victoria",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "363": {
+        "region": "New York",
+        "description": "X 363 - New YorkOverlay of 516 Area Code.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "364": {
+        "region": "Kentucky",
+        "description": "X 364 - KentuckyOverlay of 270 Area Code.  **Area Code crosses into EST time zone",
+        "lang": 37.5726028,
+        "lat": -85.1551411
+    },
+    "369": {
+        "region": "California",
+        "description": "X 369 - CaliforniaOverlay of 707 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "380": {
+        "region": "Ohio",
+        "description": "X 380 - OhioOverlay of 614 Area Code.",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "385": {
+        "region": "Utah",
+        "description": "X 385 - UtahOverlay of 801 Area Code.",
+        "lang": 39.4225192,
+        "lat": -111.714358
+    },
+    "386": {
+        "region": "Florida",
+        "description": "X 386 - FloridaDaytona, Deland, Lake City, DeBary, Orange City, New Smyrna Beach, Palatka, Palm Coast",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "401": {
+        "region": "Rhode Island",
+        "description": "X 401 - Rhode IslandRhode Island: All regions",
+        "lang": 41.7962409,
+        "lat": -71.5992372
+    },
+    "402": {
+        "region": "Nebraska",
+        "description": "X 402 - NebraskaLincoln, Omaha, Norfolk, Columbus  **Area Code crosses into MST time zone",
+        "lang": 41.7370229,
+        "lat": -99.5873816
+    },
+    "404": {
+        "region": "Georgia",
+        "description": "X 404 - GeorgiaAtlanta",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "405": {
+        "region": "Oklahoma",
+        "description": "X 405 - OklahomaOklahoma City, Norman, Stillwater, Britton, Bethany, Moore",
+        "lang": 34.9550817,
+        "lat": -97.2684063
+    },
+    "406": {
+        "region": "Montana",
+        "description": "X 406 - MontanaMontana: All regions",
+        "lang": 47.3752671,
+        "lat": -109.638757
+    },
+    "407": {
+        "region": "Florida",
+        "description": "X 407 - FloridaOrlando, Winter Park, Kissimmee, Cocoa, Lake Buena Vista, Melbourne",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "408": {
+        "region": "California",
+        "description": "X 408 - CaliforniaSan Jose, Sunnyvale, Campbell Los Gatos, Salinas, San Martin, Saratoga, Morgan Hill, Gilroy",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "409": {
+        "region": "Texas",
+        "description": "X 409 - TexasGalveston, Beaumont, Port Arthur, Texas City, Nederland",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "410": {
+        "region": "Maryland",
+        "description": "X 410 - MarylandBaltimore, Annapolis, Towson, Catonsville, Glen Burnie",
+        "lang": 39.5162401,
+        "lat": -76.9382069
+    },
+    "412": {
+        "region": "Pennsylvania",
+        "description": "X 412 - PennsylvaniaPittsburgh",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "413": {
+        "region": "Massachusetts",
+        "description": "X 413 - MassachusettsSpringfield, Pittsfield, Holyoke, Amherst",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "414": {
+        "region": "Wisconsin",
+        "description": "X 414 - WisconsinMilwaukee, Greendale, Franklin, Cudahy, St. Francis, Brown Deer, Whitefish Bay",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "415": {
+        "region": "California",
+        "description": "X 415 - CaliforniaSan Francisco",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "417": {
+        "region": "Missouri",
+        "description": "X 417 - MissouriJoplin, Springfield, Branson, Lebanon",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "419": {
+        "region": "Ohio",
+        "description": "X 419 - OhioToledo, Lima, Mansfield, Sandusky, Findlay",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "423": {
+        "region": "Tennessee",
+        "description": "X 423 - TennesseeChattanooga, Cleveland, Johnson City, Bristol, Kingsport, Athens, Morristown, Greeneville  **Area Code crosses into CST time zone",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "424": {
+        "region": "California",
+        "description": "X 424 - CaliforniaOverlay of 310 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "425": {
+        "region": "Washington",
+        "description": "X 425 - WashingtonBothell, Everett, Bellevue, Kirkland, Renton",
+        "lang": 38.8950368,
+        "lat": -77.0365427
+    },
+    "430": {
+        "region": "Texas",
+        "description": "X 430 - TexasOverlay of 903 Area Code.",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "432": {
+        "region": "Texas",
+        "description": "X 432 - TexasMidland, Terminal, Odessa, Big Spring, Alpine, Pecos, Fort Stockton",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "434": {
+        "region": "Virginia",
+        "description": "X 434 - VirginiaLynchburg, Danville, Charlottesville, Madison Heights, South Boston",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "435": {
+        "region": "Utah",
+        "description": "X 435 - UtahLogan, St. George, Park City, Tooele, Brigham City, Richfield, Moab, Blanding",
+        "lang": 39.4225192,
+        "lat": -111.714358
+    },
+    "436": {
+        "region": "Ohio",
+        "description": "X 436 - OhioOverlay of 440 Area Code.",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "440": {
+        "region": "Ohio",
+        "description": "X 440 - OhioWilloughby, Hillcrest, Trinity, Lorain, Elyria",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "442": {
+        "region": "California",
+        "description": "X 442 - CaliforniaOverlay of 760 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "443": {
+        "region": "Maryland",
+        "description": "X 443 - MarylandOverlay of 410 Area Code.",
+        "lang": 39.5162401,
+        "lat": -76.9382069
+    },
+    "445": {
+        "region": "Pennsylvania",
+        "description": "X 445 - PennsylvaniaOverlay of 215, 267 Area Codes.",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "447": {
+        "region": "Illinois",
+        "description": "X 447 - IllinoisOverlay of 217 Area Code.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "448": {
+        "region": "Florida",
+        "description": "X 448 - FloridaOverlay of 850 Area Code.  **Area Code crosses into EST time zone",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "458": {
+        "region": "Oregon",
+        "description": "X 458 - OregonOverlay of 541 Area Code.  **Area Code crosses into MST time zone",
+        "lang": 43.9792797,
+        "lat": -120.737257
+    },
+    "463": {
+        "region": "Indiana",
+        "description": "X 463 - IndianaOverlay of 317 Area Code.",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "464": {
+        "region": "Illinois",
+        "description": "X 464 - IllinoisOverlay of 708 Area Code.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "469": {
+        "region": "Texas",
+        "description": "X 469 - TexasOverlay of 214, 972 Area Codes (Greater Dallas Area).",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "470": {
+        "region": "Georgia",
+        "description": "X 470 - GeorgiaOverlay of 404, 678, 770 Area Codes.",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "472": {
+        "region": "North Carolina",
+        "description": "X 472 - North CarolinaOverlay of 910 Area Code (Fayetteville, Wilmington, Jacksonville, Lumberton, Laurinburg, Southern Pines)",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "475": {
+        "region": "Connecticut",
+        "description": "X 475 - ConnecticutOverlay of 203 Area Code.",
+        "lang": 41.6500201,
+        "lat": -72.7342163
+    },
+    "478": {
+        "region": "Georgia",
+        "description": "X 478 - GeorgiaMacon, Warner Robbins, Dublin, Milledgeville, Forsyth",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "479": {
+        "region": "Arkansas",
+        "description": "X 479 - ArkansasFort Smith, Fayetteville, Rogers, Bentonville, Russellville",
+        "lang": 35.2048883,
+        "lat": -92.4479108
+    },
+    "480": {
+        "region": "Arizona",
+        "description": "X 480 - ArizonaMesa, Scottsdale, Tempe, Chandler, Gilbert",
+        "lang": 34.395342,
+        "lat": -111.763275
+    },
+    "484": {
+        "region": "Pennsylvania",
+        "description": "X 484 - PennsylvaniaOverlay of 610 Area Code (Allentown, Reading, Bethlehem Area)",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "501": {
+        "region": "Arkansas",
+        "description": "X 501 - ArkansasLittle Rock, Hot Springs",
+        "lang": 35.2048883,
+        "lat": -92.4479108
+    },
+    "502": {
+        "region": "Kentucky",
+        "description": "X 502 - KentuckyLouisville, Frankfort, Fort Knox, Pleasure Ridge Park",
+        "lang": 37.5726028,
+        "lat": -85.1551411
+    },
+    "503": {
+        "region": "Oregon",
+        "description": "X 503 - OregonPortland, Salem, Beaverton, Gresham, Hillsboro",
+        "lang": 43.9792797,
+        "lat": -120.737257
+    },
+    "504": {
+        "region": "Louisiana",
+        "description": "X 504 - LouisianaNew Orleans, Metairie, Kenner, Chalmette",
+        "lang": 30.8703881,
+        "lat": -92.007126
+    },
+    "505": {
+        "region": "New Mexico",
+        "description": "X 505 - New MexicoNew Mexico: Albuquerque, Bernalillo, Farmington, Gallup, Grants, Las Vegas, Los Alamos, Rio Rancho, Santa Fe",
+        "lang": 34.5802074,
+        "lat": -105.996047
+    },
+    "507": {
+        "region": "Minnesota",
+        "description": "X 507 - MinnesotaRochester, Mankato, Winona, Faribault, Luverne",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "508": {
+        "region": "Massachusetts",
+        "description": "X 508 - MassachusettsWorcester, Framingham, Brockton, Plymouth, New Bedford, Marlboro, Natick, Taunton, Auburn, Westboro, Easton",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "509": {
+        "region": "Washington",
+        "description": "X 509 - WashingtonSpokane, Yakima, Walla Walla, Pullman, Kenwick",
+        "lang": 38.8950368,
+        "lat": -77.0365427
+    },
+    "510": {
+        "region": "California",
+        "description": "X 510 - CaliforniaOakland, Fremont, Newark, Hayward, Richmond",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "512": {
+        "region": "Texas",
+        "description": "X 512 - TexasAustin, San Marcos, Round Rock, Dripping Springs",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "513": {
+        "region": "Ohio",
+        "description": "X 513 - OhioCincinnati, Hamilton, Clermont, Middleton, Mason",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "515": {
+        "region": "Iowa",
+        "description": "X 515 - IowaDes Moines, Ames, Jefferson",
+        "lang": 41.9216734,
+        "lat": -93.3122705
+    },
+    "516": {
+        "region": "New York",
+        "description": "X 516 - New YorkNassau County: Hempstead, Oceanside, Freeport, Long Beach, Garden City, Glen Cove, Mineola",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "517": {
+        "region": "Michigan",
+        "description": "X 517 - MichiganLansing, Bay City, Jackson, Howell, Adrian",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "518": {
+        "region": "New York",
+        "description": "X 518 - New YorkAlbany, Schenectady, Troy, Glens Falls, Saratoga Springs, Lake Placid",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "520": {
+        "region": "Arizona",
+        "description": "X 520 - ArizonaTucson, Sierra Vista, Nogales, Douglass, Bisbee",
+        "lang": 34.395342,
+        "lat": -111.763275
+    },
+    "530": {
+        "region": "California",
+        "description": "X 530 - CaliforniaChico, Redding, Marysville, Auburn, Davis, Placerville",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "531": {
+        "region": "Nebraska",
+        "description": "X 531 - NebraskaOverlay of 402 Area Code.  **Area Code crosses into MST time zone",
+        "lang": 41.7370229,
+        "lat": -99.5873816
+    },
+    "534": {
+        "region": "Wisconsin",
+        "description": "X 534 - WisconsinOverlay of 715 Area Code.",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "539": {
+        "region": "Oklahoma",
+        "description": "X 539 - OklahomaOverlay of 918 Area Code.",
+        "lang": 34.9550817,
+        "lat": -97.2684063
+    },
+    "540": {
+        "region": "Virginia",
+        "description": "X 540 - VirginiaRoanoke, Harrisonburg, Fredericksburg, Blacksburg, Winchester, Staunton, Culpeper",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "541": {
+        "region": "Oregon",
+        "description": "X 541 - OregonEugene, Medford, Corvallis, Bend, Albany, Roseburg, Klamath Falls  **Area Code crosses into MST time zone",
+        "lang": 43.9792797,
+        "lat": -120.737257
+    },
+    "551": {
+        "region": "New Jersey",
+        "description": "X 551 - New JerseyOverlay of 201 Area Code.",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "557": {
+        "region": "Missouri",
+        "description": "X 557 - MissouriOverlay of 314 Area Code.",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "559": {
+        "region": "California",
+        "description": "X 559 - CaliforniaFresno, Visalia, Madera, San Joaquin, Porterville, Hanford",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "561": {
+        "region": "Florida",
+        "description": "X 561 - FloridaPalm Beaches, Boca Raton, Boynton Beach",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "562": {
+        "region": "California",
+        "description": "X 562 - CaliforniaLong Beach, Norwalk, Alamitos, Downey, Whittier, Lakewood, La Habra",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "563": {
+        "region": "Iowa",
+        "description": "X 563 - IowaDavenport, Dubuque, Clinton, Muscatine, Decorah, Manchester, West Union",
+        "lang": 41.9216734,
+        "lat": -93.3122705
+    },
+    "564": {
+        "region": "Washington",
+        "description": "X 564 - WashingtonOverlay of 360 Area Code.",
+        "lang": 38.8950368,
+        "lat": -77.0365427
+    },
+    "567": {
+        "region": "Ohio",
+        "description": "X 567 - OhioOverlay of 419 Area Code.",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "570": {
+        "region": "Pennsylvania",
+        "description": "X 570 - PennsylvaniaWilkes-Barre, Scranton, Stroudsburg, Williamsport, Pittston",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "571": {
+        "region": "Virginia",
+        "description": "X 571 - VirginiaOverlay of 703 Area Code.",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "572": {
+        "region": "Oklahoma",
+        "description": "X 572 - OklahomaOverlay of 405 Area Code.",
+        "lang": 34.9550817,
+        "lat": -97.2684063
+    },
+    "573": {
+        "region": "Missouri",
+        "description": "X 573 - MissouriColumbia, Cape Girardeau, Jefferson City",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "574": {
+        "region": "Indiana",
+        "description": "X 574 - IndianaSouth Bend, Elkhart, Mishawaka, Granger, La Porte  **Area Code crosses into CST time zone",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "575": {
+        "region": "New Mexico",
+        "description": "X 575 - New MexicoSplit of 505 Area Code. Alamogordo, Carlsbad, Clovis, Deming, El Rito, Galina, Hatch, Hobbs, Las Cruces, Penasco, Raton, Taos",
+        "lang": 34.5802074,
+        "lat": -105.996047
+    },
+    "580": {
+        "region": "Oklahoma",
+        "description": "X 580 - OklahomaLawton, Enid, Ponca City, Ardmore, Duncan",
+        "lang": 34.9550817,
+        "lat": -97.2684063
+    },
+    "582": {
+        "region": "Pennsylvania",
+        "description": "X 582 - PennsylvaniaOverlay of 814 Area Code.",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "585": {
+        "region": "New York",
+        "description": "X 585 - New YorkRochester, East Rochester, Olean, Batavia, Webster, Fairport, Henrietta",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "586": {
+        "region": "Michigan",
+        "description": "X 586 - MichiganWarren, Mount Clemens, Roseville, Center Line, Utica, Romeo, Richmond, Washington, New Baltimore",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "601": {
+        "region": "Mississippi",
+        "description": "X 601 - MississippiSouthern Mississippi: Jackson, Hattiesburg, Vicksburg, Meridian",
+        "lang": 32.9715285,
+        "lat": -89.7348497
+    },
+    "602": {
+        "region": "Arizona",
+        "description": "X 602 - ArizonaPhoenix",
+        "lang": 34.395342,
+        "lat": -111.763275
+    },
+    "603": {
+        "region": "New Hampshire",
+        "description": "X 603 - New HampshireNew Hampshire: All regions",
+        "lang": 43.4849133,
+        "lat": -71.6553992
+    },
+    "605": {
+        "region": "South Dakota",
+        "description": "X 605 - South DakotaSouth Dakota: All regions  **Area Code crosses into MST time zone",
+        "lang": 44.6471761,
+        "lat": -100.348761
+    },
+    "606": {
+        "region": "Kentucky",
+        "description": "X 606 - KentuckyAshland, Winchester, Pikeville, Somerset  **Area Code crosses into CST time zone",
+        "lang": 37.5726028,
+        "lat": -85.1551411
+    },
+    "607": {
+        "region": "New York",
+        "description": "X 607 - New YorkElmira, Ithaca, Stamford, Binghamton, Endicott, Oneonta",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "608": {
+        "region": "Wisconsin",
+        "description": "X 608 - WisconsinMadison, La Crosse, Janesville, Middleton, Monroe, Platteville, Dodgeville",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "609": {
+        "region": "New Jersey",
+        "description": "X 609 - New JerseyAtlantic City, Trenton, Princeton, Pleasantville, Fort Dix, Lawrenceville",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "610": {
+        "region": "Pennsylvania",
+        "description": "X 610 - PennsylvaniaAllentown, Reading, Bethlehem, West Chester, Pottstown",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "612": {
+        "region": "Minnesota",
+        "description": "X 612 - MinnesotaMinneapolis, Richfield",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "614": {
+        "region": "Ohio",
+        "description": "X 614 - OhioColumbus, Worthington, Dublin, Reynoldsburg, Westerville, Gahanna, Hilliard",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "615": {
+        "region": "Tennessee",
+        "description": "X 615 - TennesseeNashville, Mufreesboro, Hendersonville, Frank",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "616": {
+        "region": "Michigan",
+        "description": "X 616 - MichiganGrand Rapids, Holland, Grand Haven, Greenville, Zeeland, Ionia",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "617": {
+        "region": "Massachusetts",
+        "description": "X 617 - MassachusettsBoston, Cambridge, Quincy, Newton, Brookline, Brighton, Somerville, Dorchester, Hyde Park, Jamaica Plain",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "618": {
+        "region": "Illinois",
+        "description": "X 618 - IllinoisCollinsville, Alton, Carbondale, Belleville, Mount Vernon, Centralia",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "619": {
+        "region": "California",
+        "description": "X 619 - CaliforniaSan Diego, Chula Vista, El Cajon, La Mesa, National City, Coronado",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "620": {
+        "region": "Kansas",
+        "description": "X 620 - KansasHutchinson, Emporia, Liberal, Pittsburg, Dodge City, Garden City, Coffeyville  **Area Code crosses into MST time zone",
+        "lang": 38.27312,
+        "lat": -98.5821872
+    },
+    "623": {
+        "region": "Arizona",
+        "description": "X 623 - ArizonaGlendale, Sun City, Peoria",
+        "lang": 34.395342,
+        "lat": -111.763275
+    },
+    "624": {
+        "region": "New York",
+        "description": "X 624 - New YorkOverlay of 716 Area Code.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "626": {
+        "region": "California",
+        "description": "X 626 - CaliforniaPasadena, Alhambra, Covina, El Monte, La Puenta",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "628": {
+        "region": "California",
+        "description": "X 628 - CaliforniaOverlay of 415 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "629": {
+        "region": "Tennessee",
+        "description": "X 629 - TennesseeOverlay of 615 Area Code.",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "630": {
+        "region": "Illinois",
+        "description": "X 630 - IllinoisLa Grange, Roselle, Hinsdale, Downers Grove, Naperville, Lombard, Elmhurst, Aurora, Wheaton",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "631": {
+        "region": "New York",
+        "description": "X 631 - New YorkSuffolk County: Brentwood, Farmingdale, Central Islip, Riverhead, Huntington, Deer Park, Amityville, Lindenhurst",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "636": {
+        "region": "Missouri",
+        "description": "X 636 - MissouriSt. Charles, Fenton, Harvester, Chesterfield, Manchester",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "640": {
+        "region": "New Jersey",
+        "description": "X 640 - New JerseyOverlay of 609 Area Code.",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "641": {
+        "region": "Iowa",
+        "description": "X 641 - IowaFairfield, Mason City, Grinnell, Newton, Knoxville",
+        "lang": 41.9216734,
+        "lat": -93.3122705
+    },
+    "645": {
+        "region": "Florida",
+        "description": "X 645 - FloridaOverlay of 305 Area Code.",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "646": {
+        "region": "New York",
+        "description": "X 646 - New YorkOverlay of 212 Area Code (New York City).",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "650": {
+        "region": "California",
+        "description": "X 650 - CaliforniaSouth San Francisco, Palo Alto, San Mateo, Mountain View, Redwood City",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "651": {
+        "region": "Minnesota",
+        "description": "X 651 - MinnesotaSt. Paul, Redwing, Farmington, Eagan, Lino Lakes, North Branch, Roseville Valley",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "656": {
+        "region": "Florida",
+        "description": "X 656 - FloridaOverlay of 813 Area Code.",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "657": {
+        "region": "California",
+        "description": "X 657 - CaliforniaOverlay of 714 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "659": {
+        "region": "Alabama",
+        "description": "X 659 - AlabamaOverlay of 205 Area Code.",
+        "lang": 33.2588817,
+        "lat": -86.8295337
+    },
+    "660": {
+        "region": "Missouri",
+        "description": "X 660 - MissouriWarrensburg, Kirksville, Sedalia, Chillicothe, Moberly, Marshall",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "661": {
+        "region": "California",
+        "description": "X 661 - CaliforniaBakersfield, Santa Clarita, Palmdale, Simi Valley",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "662": {
+        "region": "Mississippi",
+        "description": "X 662 - MississippiNorthern Mississippi: Tupelo, Columbus, Greenwood, Greenville, Oxford",
+        "lang": 32.9715285,
+        "lat": -89.7348497
+    },
+    "667": {
+        "region": "Maryland",
+        "description": "X 667 - MarylandOverlay of 410, 443 Area Codes.",
+        "lang": 39.5162401,
+        "lat": -76.9382069
+    },
+    "669": {
+        "region": "California",
+        "description": "X 669 - CaliforniaOverlay of 408 Area Code (San Jose, San Jose, Sunnyvale, etc.)",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "678": {
+        "region": "Georgia",
+        "description": "X 678 - GeorgiaOverlay of 404, 770 Area Codes.",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "680": {
+        "region": "New York",
+        "description": "X 680 - New YorkOverlay of 315 Area Code.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "681": {
+        "region": "West Virginia",
+        "description": "X 681 - West VirginiaOverlay of 304 Area Code.",
+        "lang": 38.4758406,
+        "lat": -80.8408415
+    },
+    "682": {
+        "region": "Texas",
+        "description": "X 682 - TexasOverlay of 817 Area Code.",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "686": {
+        "region": "Virginia",
+        "description": "X 686 - VirginiaOverlay of 804 Area Code.",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "689": {
+        "region": "Florida",
+        "description": "X 689 - FloridaOverlay of 407 Area Code.",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "701": {
+        "region": "North Dakota",
+        "description": "X 701 - North DakotaNorth Dakota: All regions  **Area Code crosses into MST time zone",
+        "lang": 47.6201461,
+        "lat": -100.540737
+    },
+    "702": {
+        "region": "Nevada",
+        "description": "X 702 - NevadaLas Vegas & Surrounding Areas.",
+        "lang": 39.5158825,
+        "lat": -116.853722
+    },
+    "703": {
+        "region": "Virginia",
+        "description": "X 703 - VirginiaArlington, Alexandria, Fairfax, Falls Church, Quantico, Herndon, Vienna",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "704": {
+        "region": "North Carolina",
+        "description": "X 704 - North CarolinaCharlotte, Asheville, Gastonia, Concord, Statesville, Salisbury, Shelby, Monroe",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "706": {
+        "region": "Georgia",
+        "description": "X 706 - GeorgiaAugusta, Columbus, Athens, Rome, Dalton",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "707": {
+        "region": "California",
+        "description": "X 707 - CaliforniaEureka, Napa, Santa Rosa, Petaluma, Vallejo",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "708": {
+        "region": "Illinois",
+        "description": "X 708 - IllinoisOak Brook, Calumet City, Harvey (South suburbs of Chicago)",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "712": {
+        "region": "Iowa",
+        "description": "X 712 - IowaSioux City, Council Bluffs, Spencer, Cherokee, Denison",
+        "lang": 41.9216734,
+        "lat": -93.3122705
+    },
+    "713": {
+        "region": "Texas",
+        "description": "X 713 - TexasHouston",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "714": {
+        "region": "California",
+        "description": "X 714 - CaliforniaAnaheim, Santa Anna",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "715": {
+        "region": "Wisconsin",
+        "description": "X 715 - WisconsinEau Claire, Wausau, Stevens Point, Superior",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "716": {
+        "region": "New York",
+        "description": "X 716 - New YorkBuffalo, Niagara Falls, Tonawanda, Williamsville, Jamestown, Lancaster",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "717": {
+        "region": "Pennsylvania",
+        "description": "X 717 - PennsylvaniaHarrisburg, York, Lancaster",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "718": {
+        "region": "New York",
+        "description": "X 718 - New YorkNew York City (Bronx, Brooklyn, Queens, Staten Island)",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "719": {
+        "region": "Colorado",
+        "description": "X 719 - ColoradoColorado Springs, Pueblo, Lamar",
+        "lang": 38.7251776,
+        "lat": -105.607716
+    },
+    "720": {
+        "region": "Colorado",
+        "description": "X 720 - ColoradoOverlay of 303 Area Code.",
+        "lang": 38.7251776,
+        "lat": -105.607716
+    },
+    "724": {
+        "region": "Pennsylvania",
+        "description": "X 724 - PennsylvaniaGreensburg, Uniontown, Butler, Washington, New Castle, Indiana",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "725": {
+        "region": "Nevada",
+        "description": "X 725 - NevadaOverlay of 702 Area Code.",
+        "lang": 39.5158825,
+        "lat": -116.853722
+    },
+    "726": {
+        "region": "Texas",
+        "description": "X 726 - TexasOverlay of 210 Area Code.",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "727": {
+        "region": "Florida",
+        "description": "X 727 - FloridaClearwater, St. Petersburg, New Port Richey, Tarpon Springs",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "728": {
+        "region": "Florida",
+        "description": "X 728 - FloridaOverlay of 561 Area Code.",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "730": {
+        "region": "Illinois",
+        "description": "X 730 - IllinoisOverlay of 618 Area Code.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "731": {
+        "region": "Tennessee",
+        "description": "X 731 - TennesseeJackson, Dyersburg, Union City, Paris, Brownsville",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "732": {
+        "region": "New Jersey",
+        "description": "X 732 - New JerseyNew Brunswick, Metuchen, Rahway, Perth Amboy, Toms River, Bound Brook",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "734": {
+        "region": "Michigan",
+        "description": "X 734 - MichiganAnn Arbor, Livonia, Wayne, Wyandotte, Ypsilanti, Plymouth, Monroe",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "737": {
+        "region": "Texas",
+        "description": "X 737 - TexasOverlay of 512 Area Code.",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "740": {
+        "region": "Ohio",
+        "description": "X 740 - OhioPortsmouth, Newark, Zanesville, Wheeling, Steubenville",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "743": {
+        "region": "North Carolina",
+        "description": "X 743 - North CarolinaOverlay of 336 Area Code.",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "747": {
+        "region": "California",
+        "description": "X 747 - CaliforniaOverlay of 818 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "754": {
+        "region": "Florida",
+        "description": "X 754 - FloridaOverlay of 954 Area Code (Ft. Lauderdale Area).",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "757": {
+        "region": "Virginia",
+        "description": "X 757 - VirginiaNorfolk, Newport News, Williamsburgh",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "760": {
+        "region": "California",
+        "description": "X 760 - CaliforniaOceanside, Palm Springs, Victorville, Escondido, Vista, Palm Desert",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "762": {
+        "region": "Georgia",
+        "description": "X 762 - GeorgiaOverlay of 706 Area Code.",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "763": {
+        "region": "Minnesota",
+        "description": "X 763 - MinnesotaBrooklyn Park, Coon Rapids, Maple Grove, Plymouth, Cambridge, Blaine, Anoka",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "765": {
+        "region": "Indiana",
+        "description": "X 765 - IndianaLafayette, Muncie, Kokomo, Anderson, Richmond, Marion",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "769": {
+        "region": "Mississippi",
+        "description": "X 769 - MississippiOverlay of 601 Area Code.",
+        "lang": 32.9715285,
+        "lat": -89.7348497
+    },
+    "770": {
+        "region": "Georgia",
+        "description": "X 770 - GeorgiaNorcross, Chamblee, Smyrna, Tucker, Marietta, Alpharetta, Gainesville",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "771": {
+        "region": "District of Columbia",
+        "description": "X 771 - District of ColumbiaOverlay of 202 Area Code.",
+        "lang": 38.89384735,
+        "lat": -76.98804281910948
+    },
+    "772": {
+        "region": "Florida",
+        "description": "X 772 - FloridaVero Beach, Port St. Lucie, Stuart, Fort Pierce, Sebastian, Hobe Sound, Jensen Beach, Indiantown",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "773": {
+        "region": "Illinois",
+        "description": "X 773 - IllinoisChicago (except downtown Area is 312)",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "774": {
+        "region": "Massachusetts",
+        "description": "X 774 - MassachusettsOverlay of 508 Area Code.",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "775": {
+        "region": "Nevada",
+        "description": "X 775 - NevadaReno, Carson City  **Area Code crosses into MST time zone",
+        "lang": 39.5158825,
+        "lat": -116.853722
+    },
+    "779": {
+        "region": "Illinois",
+        "description": "X 779 - IllinoisOverlay of 815 Area Code.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "781": {
+        "region": "Massachusetts",
+        "description": "X 781 - MassachusettsWaltham, Lexington, Burlinton, Dedham, Woburn, Lynn, Malden, Saugus, Reading, Braintree, Wellesley",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "785": {
+        "region": "Kansas",
+        "description": "X 785 - KansasTopeka, Lawrence, Manhattan, Salina, Junction  **Area Code crosses into MST time zone",
+        "lang": 38.27312,
+        "lat": -98.5821872
+    },
+    "786": {
+        "region": "Florida",
+        "description": "X 786 - FloridaOverlay of 305 Area Code (Miami).",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "801": {
+        "region": "Utah",
+        "description": "X 801 - UtahUtah: Salt Lake City, Provo, Ogden, Orem, American Fork, Spanish Fork, Bountiful, Kaysville, Morgan",
+        "lang": 39.4225192,
+        "lat": -111.714358
+    },
+    "802": {
+        "region": "Vermont",
+        "description": "X 802 - VermontVermont: All regions",
+        "lang": 44.5990718,
+        "lat": -72.5002608
+    },
+    "803": {
+        "region": "South Carolina",
+        "description": "X 803 - South CarolinaColumbia",
+        "lang": 33.6874388,
+        "lat": -80.4363743
+    },
+    "804": {
+        "region": "Virginia",
+        "description": "X 804 - VirginiaRichmond, Lynchburg, Petersburg",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "805": {
+        "region": "California",
+        "description": "X 805 - CaliforniaSanta Barbara, Thousand Oaks, San Luis Obispo, Ventura, Oxnard, Simi Valley",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "806": {
+        "region": "Texas",
+        "description": "X 806 - TexasAmarillo, Lubbock",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "808": {
+        "region": "Hawaii",
+        "description": "X 808 - HawaiiHawaii: All regions",
+        "lang": 19.593801499999998,
+        "lat": -155.42837009716908
+    },
+    "810": {
+        "region": "Michigan",
+        "description": "X 810 - MichiganFlint, Port Huron, Lapeer, Brighton, Sandusky",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "812": {
+        "region": "Indiana",
+        "description": "X 812 - IndianaEvansville, Bloomington, Terre Haute, New Albany  **Area Code crosses into CST time zone",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "813": {
+        "region": "Florida",
+        "description": "X 813 - FloridaTampa",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "814": {
+        "region": "Pennsylvania",
+        "description": "X 814 - PennsylvaniaAltoona, Johnstown, Erie, Punxsutawney",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "815": {
+        "region": "Illinois",
+        "description": "X 815 - IllinoisLa Salle, Joliet, Rockford, DeKalb",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "816": {
+        "region": "Missouri",
+        "description": "X 816 - MissouriKansas City, Saint Joseph, Independence, Gladstone",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "817": {
+        "region": "Texas",
+        "description": "X 817 - TexasFort Worth, Arlington, Euless, Grapevine",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "818": {
+        "region": "California",
+        "description": "X 818 - CaliforniaVan Nuys, Canoga Park, Burbank, San Fernando, Glendale, N. Hollywood",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "820": {
+        "region": "California",
+        "description": "X 820 - CaliforniaOverlay of 805 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "821": {
+        "region": "South Carolina",
+        "description": "X 821 - South CarolinaOverlay of 864 Area Code.",
+        "lang": 33.6874388,
+        "lat": -80.4363743
+    },
+    "826": {
+        "region": "Virginia",
+        "description": "X 826 - VirginiaOverlay of 540 Area Code.",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "828": {
+        "region": "North Carolina",
+        "description": "X 828 - North CarolinaAsheville, Hickory, Morganton, Hendersonville, Lenoir, Boone, Andrews, Murphy, Marble",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "830": {
+        "region": "Texas",
+        "description": "X 830 - TexasNew Braunfels, Del Rio, Seguin, Kerrville, Eagle Pass, Fredericksburg",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "831": {
+        "region": "California",
+        "description": "X 831 - CaliforniaMonterey, Santa Cruz, Salinas, Hollister, Aptos, Carmel",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "832": {
+        "region": "Texas",
+        "description": "X 832 - TexasOverlay of 281, 346, 713 Area Codes (Houston).",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "835": {
+        "region": "Pennsylvania",
+        "description": "X 835 - PennsylvaniaOverlay of 484 and 610 Area Codes (Allentown, Reading, Bethlehem Area)",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "838": {
+        "region": "New York",
+        "description": "X 838 - New YorkOverlay of 518 Area Code.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "839": {
+        "region": "South Carolina",
+        "description": "X 839 - South CarolinaOverlay of 803 Area Code.",
+        "lang": 33.6874388,
+        "lat": -80.4363743
+    },
+    "840": {
+        "region": "California",
+        "description": "X 840 - CaliforniaOverlay of 909 Area Code.",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "843": {
+        "region": "South Carolina",
+        "description": "X 843 - South CarolinaCharleston, Florence, Myrtle Beach, Hilton Head",
+        "lang": 33.6874388,
+        "lat": -80.4363743
+    },
+    "845": {
+        "region": "New York",
+        "description": "X 845 - New YorkPoughkeepsie, Spring Valley, Newburgh, Kingston, Nyack, Middletown, Brewster, Pearl River",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "847": {
+        "region": "Illinois",
+        "description": "X 847 - IllinoisNorthbrook, Skokie, Evanston, Glenview, Waukegan, Desplaines, Elk Grove (North suburbs of Chicago)",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "848": {
+        "region": "New Jersey",
+        "description": "X 848 - New JerseyOverlay of 732 Area Code.",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "850": {
+        "region": "Florida",
+        "description": "X 850 - FloridaTallahassee, Pensacola, Fort Walton Beach, Panama City  **Area Code crosses into EST time zone",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "854": {
+        "region": "South Carolina",
+        "description": "X 854 - South CarolinaOverlay of 843 Area Code.",
+        "lang": 33.6874388,
+        "lat": -80.4363743
+    },
+    "856": {
+        "region": "New Jersey",
+        "description": "X 856 - New JerseyCamden, Haddonfield, Moorestown, Merchantville, Vineland, Laurel Springs",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "857": {
+        "region": "Massachusetts",
+        "description": "X 857 - MassachusettsOverlay of 617 Area Code.",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "858": {
+        "region": "California",
+        "description": "X 858 - CaliforniaLa Jolla, Rancho Bernardo, del Mar, Poway, Rancho Penasquitos, Rancho Santa Fe",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "859": {
+        "region": "Kentucky",
+        "description": "X 859 - KentuckyLexington, Covington, Boone, Winchester, Richmond, Danville, Mount Sterling",
+        "lang": 37.5726028,
+        "lat": -85.1551411
+    },
+    "860": {
+        "region": "Connecticut",
+        "description": "X 860 - ConnecticutHartford, New London, Norwich, Middletown, Bristol",
+        "lang": 41.6500201,
+        "lat": -72.7342163
+    },
+    "861": {
+        "region": "Illinois",
+        "description": "X 861 - IllinoisOverlay of 309 Area Code.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "862": {
+        "region": "New Jersey",
+        "description": "X 862 - New JerseyOverlay of 973 Area Code.",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "863": {
+        "region": "Florida",
+        "description": "X 863 - FloridaLakeland, Winter Haven, Lake Wales, Sebring, Haines City, Bartow, Avon Park, Okeechobee, Wachula",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "864": {
+        "region": "South Carolina",
+        "description": "X 864 - South CarolinaGreenville, Spartanburg, Anderson",
+        "lang": 33.6874388,
+        "lat": -80.4363743
+    },
+    "865": {
+        "region": "Tennessee",
+        "description": "X 865 - TennesseeKnoxville, Maryville, Oak Ridge, Sevierville, Gatlinburg, Concord, Powell",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "870": {
+        "region": "Arkansas",
+        "description": "X 870 - ArkansasTexarkana, Jonesboro, Pine Bluff, El Dorado",
+        "lang": 35.2048883,
+        "lat": -92.4479108
+    },
+    "872": {
+        "region": "Illinois",
+        "description": "X 872 - IllinoisOverlay of 312, 773 Area Codes.",
+        "lang": 40.0796606,
+        "lat": -89.4337288
+    },
+    "878": {
+        "region": "Pennsylvania",
+        "description": "X 878 - PennsylvaniaOverlay of 412, 724 Area Codes.",
+        "lang": 40.9699889,
+        "lat": -77.7278831
+    },
+    "901": {
+        "region": "Tennessee",
+        "description": "X 901 - TennesseeMemphis, Collierville",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "903": {
+        "region": "Texas",
+        "description": "X 903 - TexasLongview, Tyler, Texarkana, Paris, Kilgore, Sherman, Denison",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "904": {
+        "region": "Florida",
+        "description": "X 904 - FloridaJacksonville, Saint Augustine, Orange Park, Fernandina Beach",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "906": {
+        "region": "Michigan",
+        "description": "X 906 - MichiganMarquette, Iron Mountain, Houghton, Sault Ste Marie  **Area Code crosses into CST time zone",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "907": {
+        "region": "Alaska",
+        "description": "X 907 - AlaskaAlaska: All regions  **Area Code crosses into HAST time zone",
+        "lang": 64.4459613,
+        "lat": -149.680909
+    },
+    "908": {
+        "region": "New Jersey",
+        "description": "X 908 - New JerseyElizabeth, New Brunswick, Somerville, Freehold, Unionville, Plainfield",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "909": {
+        "region": "California",
+        "description": "X 909 - CaliforniaSan Bernardino, Ontario, Upland, Pomona, Riverside, Colton, Chino",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "910": {
+        "region": "North Carolina",
+        "description": "X 910 - North CarolinaFayetteville, Wilmington, Jacksonville, Lumberton, Laurinburg, Southern Pines",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "912": {
+        "region": "Georgia",
+        "description": "X 912 - GeorgiaSavannah, Macon, Waycross, Brunswick, Statesboro, Vidalia",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "913": {
+        "region": "Kansas",
+        "description": "X 913 - KansasMelrose, Kansas City",
+        "lang": 38.27312,
+        "lat": -98.5821872
+    },
+    "914": {
+        "region": "New York",
+        "description": "X 914 - New YorkWestchester, Monroe, Mount Vernon, Mount Kisco, Pleasantville",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "915": {
+        "region": "Texas",
+        "description": "X 915 - TexasEl Paso, Socorro, Fabens, Dell City, Van Horn, Fort Bliss  **Area Code crosses into CST time zone",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "916": {
+        "region": "California",
+        "description": "X 916 - CaliforniaSacramento, Roseville, Fair Oaks, Folsom, Elk Grove, South Placer",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "917": {
+        "region": "New York",
+        "description": "X 917 - New YorkOverlay of 212, 718 Area Codes (New York City).",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "918": {
+        "region": "Oklahoma",
+        "description": "X 918 - OklahomaTulsa, Broken Arrow, Muskogee, Bartlesville, McAlester",
+        "lang": 34.9550817,
+        "lat": -97.2684063
+    },
+    "919": {
+        "region": "North Carolina",
+        "description": "X 919 - North CarolinaRaleigh, Durham, Cary, Chapel Hill, Goldsboro, Apex, Sanford, Wake Forest",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "920": {
+        "region": "Wisconsin",
+        "description": "X 920 - WisconsinGreen Bay, Appleton, Racine, Fond du Lac, Oshkosh, Sheboygan",
+        "lang": 44.4308975,
+        "lat": -89.6884637
+    },
+    "924": {
+        "region": "Minnesota",
+        "description": "X 924 - MinnesotaOverlay of 507 Area Code.",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "925": {
+        "region": "California",
+        "description": "X 925 - CaliforniaWalnut Creek, Pleasanton, Concord, Livermore, Bishop Ranch, Danville, Antioch",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "928": {
+        "region": "Arizona",
+        "description": "X 928 - ArizonaYuma, Flagstaff, Prescott, Sedona, Bullhead City, Kingman, Lake Havasu City  **Area Code crosses into MST time zone",
+        "lang": 34.395342,
+        "lat": -111.763275
+    },
+    "929": {
+        "region": "New York",
+        "description": "X 929 - New YorkOverlay of 347, 718, 917 Area Codes (Bronx, Brooklyn, Queens, Staten Island).",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "930": {
+        "region": "Indiana",
+        "description": "X 930 - IndianaOverlay of 812 Area Code.  **Area Code crosses into CST time zone",
+        "lang": 40.3270127,
+        "lat": -86.1746933
+    },
+    "931": {
+        "region": "Tennessee",
+        "description": "X 931 - TennesseeClarksville, Shelbyville, Cookeville, Columbia",
+        "lang": 35.7730076,
+        "lat": -86.2820081
+    },
+    "934": {
+        "region": "New York",
+        "description": "X 934 - New YorkOverlay of 631 Area Code.",
+        "lang": 40.7127281,
+        "lat": -74.0060152
+    },
+    "936": {
+        "region": "Texas",
+        "description": "X 936 - TexasConroe, Nacogdoches, Huntsville, Lufkin, Madisonville",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "937": {
+        "region": "Ohio",
+        "description": "X 937 - OhioDayton, Springfield, Bellefontaine, Beavercreek, Franklin",
+        "lang": 40.2253569,
+        "lat": -82.6881395
+    },
+    "938": {
+        "region": "Alabama",
+        "description": "X 938 - AlabamaOverlay of 256 Area Code.",
+        "lang": 33.2588817,
+        "lat": -86.8295337
+    },
+    "940": {
+        "region": "Texas",
+        "description": "X 940 - TexasWichita Falls, Denton, Gainesville",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "941": {
+        "region": "Florida",
+        "description": "X 941 - FloridaSarasota, Bradenton, Venice, Port Charlotte, Punta Gorda",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "943": {
+        "region": "Georgia",
+        "description": "X 943 - GeorgiaOverlay of 404, 470, 678, 770 Area Codes.",
+        "lang": 32.3293809,
+        "lat": -83.1137366
+    },
+    "945": {
+        "region": "Texas",
+        "description": "X 945 - TexasOverlay of 214, 469, 972 Area Codes (Greater Dallas Area).",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "947": {
+        "region": "Michigan",
+        "description": "X 947 - MichiganOverlay of 248 Area Code.",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    },
+    "948": {
+        "region": "Virginia",
+        "description": "X 948 - VirginiaOverlay of 757 Area Code.",
+        "lang": 37.1232245,
+        "lat": -78.4927721
+    },
+    "949": {
+        "region": "California",
+        "description": "X 949 - CaliforniaIrvine, Saddleback Valley, Newport Beach, Capistrano Valley, Laguna Beach",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "951": {
+        "region": "California",
+        "description": "X 951 - CaliforniaRiverside, Corona, Temecula, Arlington, Hemet, Moreno Valley, Murietta, Sun City, Elsinore",
+        "lang": 36.7014631,
+        "lat": -118.755997
+    },
+    "952": {
+        "region": "Minnesota",
+        "description": "X 952 - MinnesotaBloomington, Burnsville, Eden Prairie, Minnetonka, Edina, St. Louis Park, Apple Valley",
+        "lang": 45.9896587,
+        "lat": -94.6113288
+    },
+    "954": {
+        "region": "Florida",
+        "description": "X 954 - FloridaFort Lauderdale, Hollywood, Pompano Beach, Deerfield Beach, Coral Springs",
+        "lang": 27.7567667,
+        "lat": -81.4639835
+    },
+    "956": {
+        "region": "Texas",
+        "description": "X 956 - TexasBrownsville, Laredo, McAllen, Harlingen, Edinburg",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "959": {
+        "region": "Connecticut",
+        "description": "X 959 - ConnecticutOverlay of 860 Area Code.",
+        "lang": 41.6500201,
+        "lat": -72.7342163
+    },
+    "970": {
+        "region": "Colorado",
+        "description": "X 970 - ColoradoFort Collins, Greeley, Grand Junction, Loveland, Durango, Vail",
+        "lang": 38.7251776,
+        "lat": -105.607716
+    },
+    "971": {
+        "region": "Oregon",
+        "description": "X 971 - OregonOverlay of 503 Area Code.",
+        "lang": 43.9792797,
+        "lat": -120.737257
+    },
+    "972": {
+        "region": "Texas",
+        "description": "X 972 - TexasGrand Prairie, Addison, Irving, Richardson, Plano, Carrollton",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "973": {
+        "region": "New Jersey",
+        "description": "X 973 - New JerseyNewark, Morristown, Paterson, Passaic, Orange, Bloomfield, Caldwell, Whippany",
+        "lang": 40.0757384,
+        "lat": -74.4041622
+    },
+    "975": {
+        "region": "Missouri",
+        "description": "X 975 - MissouriOverlay of 816 Area Code.",
+        "lang": 38.7604815,
+        "lat": -92.5617875
+    },
+    "978": {
+        "region": "Massachusetts",
+        "description": "X 978 - MassachusettsLowell, Lawrence, Billerica, Concord, Wilmington, Sudbury, Fitchburg, Peabody, Andover, Beverly, Danvers",
+        "lang": 42.3788774,
+        "lat": -72.032366
+    },
+    "979": {
+        "region": "Texas",
+        "description": "X 979 - TexasBryan, Lake Jackson, Freeport, Brenham, Bay City, El Campo",
+        "lang": 31.2638905,
+        "lat": -98.5456116
+    },
+    "980": {
+        "region": "North Carolina",
+        "description": "X 980 - North CarolinaOverlay of 704 Area Code.",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "983": {
+        "region": "Colorado",
+        "description": "X 983 - ColoradoOverlay of 303, 720 Area Codes.",
+        "lang": 38.7251776,
+        "lat": -105.607716
+    },
+    "984": {
+        "region": "North Carolina",
+        "description": "X 984 - North CarolinaOverlay of 919 Area Code.",
+        "lang": 35.6729639,
+        "lat": -79.0392919
+    },
+    "985": {
+        "region": "Louisiana",
+        "description": "X 985 - LouisianaHouma, Slidell, Hammond, Morgan City, Mandeville, Covington, Thibodaux, Bogalusa, St. Charles",
+        "lang": 30.8703881,
+        "lat": -92.007126
+    },
+    "986": {
+        "region": "Idaho",
+        "description": "X 986 - IdahoOverlay of 208 Area Code.  **Area Code crosses into PST time zone",
+        "lang": 43.6447642,
+        "lat": -114.015407
+    },
+    "989": {
+        "region": "Michigan",
+        "description": "X 989 - MichiganSaginaw, Bay City, Midland, Mount Pleasant",
+        "lang": 43.6211955,
+        "lat": -84.6824346
+    }
+}
