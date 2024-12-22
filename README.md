@@ -1,8 +1,8 @@
 
 
-# ZOHO CRM FB Lead Data Files
+# US Address and Area Codes
 
-This repository contains JSON files used for mapping and standardizing various data fields in the ZOHO CRM FB Lead project. These files include mappings for street suffixes, secondary unit designations, and area codes to regions.
+This repository contains JSON files used for mapping and standardizing various data fields. These files include mappings for street suffixes, secondary unit designations, and area codes to regions.
 
 ## Table of Contents
 - [ZOHO CRM FB Lead Data Files](#zoho-crm-fb-lead-data-files)
