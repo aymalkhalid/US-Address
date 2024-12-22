@@ -5,7 +5,6 @@
 This repository contains JSON files used for mapping and standardizing various data fields. These files include mappings for street suffixes, secondary unit designations, and area codes to regions.
 
 ## Table of Contents
-- [ZOHO CRM FB Lead Data Files](#zoho-crm-fb-lead-data-files)
   - [Table of Contents](#table-of-contents)
   - [Files and Their Descriptions](#files-and-their-descriptions)
     - [units_secondary_designatory.json](#units_secondary_designatoryjson)
