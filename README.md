@@ -1,15 +1,16 @@
+
+
 # ZOHO CRM FB Lead Data Files
 
 This repository contains JSON files used for mapping and standardizing various data fields in the ZOHO CRM FB Lead project. These files include mappings for street suffixes, secondary unit designations, and area codes to regions.
 
 ## Table of Contents
-- [Files and Their Descriptions](#files-and-their-descriptions)
-  - [units_secondary_designatory.json](#units_secondary_designatoryjson)
-  - [street_suffix.json](#street_suffixjson)
-  - [area_code_region.json](#area_code_regionjson)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [ZOHO CRM FB Lead Data Files](#zoho-crm-fb-lead-data-files)
+  - [Table of Contents](#table-of-contents)
+  - [Files and Their Descriptions](#files-and-their-descriptions)
+    - [units_secondary_designatory.json](#units_secondary_designatoryjson)
+    - [street_suffix.json](#street_suffixjson)
+    - [area_code_region.json](#area_code_regionjson)
 
 ## Files and Their Descriptions
 
@@ -22,12 +23,13 @@ Example:
     "Apartment": ["APT", "Apartment", "Apartmnt", "Apt", "Apt.", "Apts"],
     "Basement": ["BSMT", "Base,", "Basemnt", "Bsmt", "Bsmt."]
 }
+```
+
+### 
+
+street_suffix.json
 
 
-### street_suffix.json
-
-```markdown
-### street_suffix.json
 This file contains mappings for street suffixes. Each key represents a street suffix (e.g., Alley, Avenue), and the value is an array of possible abbreviations or variations for that suffix.
 
 Example:
@@ -36,12 +38,13 @@ Example:
     "ALLEY": ["ALLEY", "ALLEE", "ALY"],
     "AVENUE": ["AVENUE", "AV", "AVE", "AVEN", "AVENU", "AVN", "AVNUE"]
 }
+```
+
+### 
+
+area_code_region.json
 
 
-### area_code_region.json
-
-```markdown
-### area_code_region.json
 This file contains mappings of area codes to their respective regions within the United States. Each entry includes the area code, region, a detailed description, and geographical coordinates (latitude and longitude).
 
 Example:
@@ -54,3 +57,4 @@ Example:
         "lat": -74.4041622
     }
 }
+```
